@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ESketch</title>
+    <link>https://en-shchang.github.io/post/</link>
+    <description>Recent content in Posts on ESketch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>exyzlearning@gmail.com (En)</managingEditor>
+    <webMaster>exyzlearning@gmail.com (En)</webMaster>
+    <lastBuildDate>Tue, 08 Mar 2022 22:40:50 +0100</lastBuildDate><atom:link href="https://en-shchang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown (part 1)</title>
+      <link>https://en-shchang.github.io/post/markdown-part-1/</link>
+      <pubDate>Tue, 08 Mar 2022 22:40:50 +0100</pubDate>
+      <author>exyzlearning@gmail.com (En)</author>
+      <guid>https://en-shchang.github.io/post/markdown-part-1/</guid>
+      <description>Add a mark before each point.  - Example  Bold font in the text, Example.  **Example**  Italic font in the text, Example  *Example*  Paragraph title:  Example Example Example # Example ## Example ### Example  Insert a code section:  Method 1: with highlight    print (&amp;#39;Hello word&amp;#39;) ``` print (&amp;#39;Hello word&amp;#39;) ```  Insert a code section:  Method 2: with highlight and line numbers    1print (&amp;#39;Hello word&amp;#39;) {{&amp;lt; highlight javascript &amp;#34;linenos=inline&amp;#34; &amp;gt;}} print (&amp;#39;Hello word&amp;#39;) {{&amp;lt;/ highlight &amp;gt;}}  Ignore Markdown formatting  /*.</description>
+    </item>
+    
+    <item>
+      <title>Drawing</title>
+      <link>https://en-shchang.github.io/post/drawing/</link>
+      <pubDate>Fri, 01 Jan 2021 22:45:32 +0100</pubDate>
+      <author>exyzlearning@gmail.com (En)</author>
+      <guid>https://en-shchang.github.io/post/drawing/</guid>
+      <description>wasserbruecker
+N2
+a_lovely_family
+</description>
+    </item>
+    
+  </channel>
+</rss>

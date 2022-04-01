@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on ESketch</title>
+    <link>https://en-shchang.github.io/page/</link>
+    <description>Recent content in Pages on ESketch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>exyzlearning@gmail.com (En)</managingEditor>
+    <webMaster>exyzlearning@gmail.com (En)</webMaster><atom:link href="https://en-shchang.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://en-shchang.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>exyzlearning@gmail.com (En)</author>
+      <guid>https://en-shchang.github.io/page/about/</guid>
+      <description>Hi, my name is En. I am a neurosecience researcher and a data science enthusiast. Recently, I just start to pick up my coding skills which is definetly full of fun. For several years, I am kind of unsure about this decision, since I knew about the coding skills relatively late, as compare to other students, I don&amp;rsquo;t know if it is too late to start it. However, doing research has led me to learn programming to solve the problems efficiently.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ESketch</title>
+    <link>https://en-shchang.github.io/categories/</link>
+    <description>Recent content in Categories on ESketch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>exyzlearning@gmail.com (En)</managingEditor>
+    <webMaster>exyzlearning@gmail.com (En)</webMaster><atom:link href="https://en-shchang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
